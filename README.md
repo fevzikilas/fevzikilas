@@ -16,240 +16,310 @@ The technologies I use include popular frameworks such as Android development, F
 
 ![](https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Some%20Tools%20I%20work%20with&reversal=false&animation=blink&stroke=00FF00&fontColor=00000&strokeWidth=2&fontSize=30&fontAlign=20)
 
+---
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"  style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Android%20Studio&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=14"/>
 </a>
 
+---
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Arduino&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=9"/>
 </a>
 
+---
+
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Blender&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=10"/>
 </a>
+
+---
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=C%20Langugaes&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=13"/>
 </a>
 
+---
+
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Canva%20JS&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=10"/>
 </a>
 
+---
+
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Chart.js
-&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=9"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Chart.js&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=9"/>
 </a>
+
+---
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=C%+%+&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=7"/>
 </a>
 
+---
+
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=C%20sharp&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=9"/>
 </a>
+
+---
 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=CSS&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=6"/>
 </a>
 
+---
+
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Django&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=10"/>
 </a>
+
+---
 
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Docker&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=9"/>
 </a>
 
-
-
-
+---
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Fluter&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
 
+---
+
  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Google%20Cloud%20Service&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=20"/>
 </a>
+
+---
 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=GIT&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=6"/>
 </a>
 
+---
+
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=HTML&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
+
+---
 
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Adobe%Illustrator&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=16"/>
 </a>
 
+---
+
  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Java&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=6"/>
 </a>
+
+---
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Java%20Script&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=11"/>
 </a>
 
+---
+
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Kotlin&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=7"/>
 </a>
+
+---
 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=MongoDB&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=10"/>
 </a>
 
+---
+
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=MySql&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=7"/>
 </a>
+
+---
 
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=NextJS&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
 
- 
-
-
+---
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=NodeJS&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
 
- <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
+---
+
+<a href="https://opencv.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=OpenCV&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=9"/>
 </a>
+
+---
 
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Pandas&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
 
+---
+
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Photoshop&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=11"/>
 </a>
+
+---
 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=PostGreSQL&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=12"/>
 </a>
 
+---
+
  <a href="https://postman.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Postman&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=9"/>
 </a>
+
+---
 
  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Python&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
 
+---
+
  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=PyTorch&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
+
+---
 
  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Ruby%20on%20Rails&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=13"/>
 </a>
 
+---
+
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=DotNet&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
+
+---
 
  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=ElectronJS&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=10"/>
 </a>
 
-
+---
   
-
-
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=React&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=6"/>
 </a>
+
+---
 
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=React%20Native&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=13"/>
 </a>
 
+---
+
  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Ruby&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=7"/>
 </a>
+
+---
 
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Scikit%20Learn&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=12"/>
 </a>
 
+---
+
  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=SeaBorn&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=9"/>
 </a>
+
+---
 
  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Spring%20Boot&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=13"/>
 </a>
 
+---
+
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=TensorFlow&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=12"/>
 </a>
+
+---
 
  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Unity&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=8"/>
 </a>
 
+---
+
  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Unreal%20Engine&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=14"/>
 </a>
+
+---
 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; margin-bottom: 20px; "> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Figma&reversal=false&animation=blink&stroke=ad2f30&fontColor=000000&strokeWidth=2&fontSize=30&fontAlign=7"/>
 </a>
 
+---
+
 <img align="center" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRmcWUwaGFkbW1lczJoYzBjbHBxZjMyeDdhdDQycGdzamwyOGhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtB2l3jHiJsFa/giphy.gif"/> </p>
-
-
 
 ---
 
@@ -259,6 +329,7 @@ I am a fourth year student at Hacettepe University Computer Sciences. I am const
 
 
 ---
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Contact%20me&reversal=false&animation=blink&stroke=00FF00&fontColor=00000&strokeWidth=2&fontSize=50&fontAlign=18)
 
 - [Twitter](https://twitter.com/iksapp)
@@ -301,7 +372,7 @@ I am a fourth year student at Hacettepe University Computer Sciences. I am const
 ⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⣖⣤⣶⣿⣿⣿⣿⣿⣭⡶⠶⠒⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠈⠉⠁⠒⠤⠀⡔⠄⠀⠂
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⢋⣥⣾⣿⣿⣿⣿⣿⣿⡿⠛⠁⢀⣠⠔⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠛⠓⢤⡀⠀⠀⢀⣀⠈⠂⠉⠀
 ⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠘⣿⣀⢻⡟⠉⣷⠀⠀⠀⠀⠀⠀⢀⡤⠎⠁⣀⣿⣿⣿⣿⣿⣿⣿⠟⢉⣠⣶⡾⠋⠀⠀⠀⠀⣀⣠⡤⢶⡾⠶⠀⠀⠀⠀⠀⠉⠶⣽⣾⣿⣷⣄⡀⠀
