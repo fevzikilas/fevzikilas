@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=150&text=Hi%20👋,%20I'm%20Fevzi%20KILAS&textBg=false&fontColor=000000&fontAlign=42&animation=blink&stroke=800000&strokeWidth=3&section=header)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&text=Hi%20👋,%20I'm%20Fevzi%20KILAS&textBg=false&fontColor=000000&fontAlign=46&animation=blink&stroke=800000&strokeWidth=45section=header)
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNlMXozZXBwMXlhbng4d29oZDZkanhrazZ1OGcwNnR1ZW1mYWV5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" style="width: 1200px; height: auto;">
 
