@@ -14,6 +14,10 @@ The technologies I use include popular frameworks such as Android development, F
 
 ---
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fevzikilas&show_icons=true&locale=en&theme=radical" alt="fevzikilas" /></p>
+
+---
+
 ![](https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=Some%20Tools%20I%20work%20with&reversal=false&animation=blink&stroke=00FF00&fontColor=00000&strokeWidth=2&fontSize=30&fontAlign=20)
 
 <div style="display: flex; align-items: center;">
@@ -152,6 +156,8 @@ The technologies I use include popular frameworks such as Android development, F
 ---
 
 <img align="center" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRmcWUwaGFkbW1lczJoYzBjbHBxZjMyeDdhdDQycGdzamwyOGhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtB2l3jHiJsFa/giphy.gif"/> </p>
+
+
 
 ---
 
