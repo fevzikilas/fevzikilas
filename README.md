@@ -8,7 +8,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=About%20Me&reversal=false&animation=blink&stroke=00FF00&fontColor=00000&strokeWidth=2&fontSize=30&fontAlign=9)
 
-I am Fevzi KILAS, a technology enthusiast specializing in data science, AI and Web Development. Proficient in Python, C++, Java, and JavaScript, I actively data science and AI. I mostly use python w/ populer sdk's. Currently working on Time Series and LLM/VLM's. I use frameworks like Android, Flutter, React, and Django, with tools like Docker and Git for efficiency. In database management, I prioritize Oracle, followed by PostgreSQL, focusing on security and accessibility. Additionally, I incorporate graphic design tools such as Blender and Adobe Illustrator, delivering high-quality, efficient solutions across my projects.
+I am Fevzi KILAS, a technology enthusiast specializing in data science, AI and Web Development. Proficient in Python, C++, Java, and JavaScript. I mostly use python w/ populer sdk's. Currently working on Time Series and LLM/VLM's. I use frameworks like Android, Flutter, React, and Django, with tools like Docker and Git for efficiency. In database management, I prioritize Oracle, followed by PostgreSQL, focusing on security and accessibility. Additionally, I incorporate graphic design tools such as Blender and Adobe Illustrator, delivering high-quality, efficient solutions across my projects.
 
 ---
 
