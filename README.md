@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=About%20Me&reversal=false&animation=blink&stroke=00FF00&fontColor=00000&strokeWidth=2&fontSize=30&fontAlign=9" align="center">
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/f4/82/fe/f482fe72f5aa6eda1469565a3fc827bb.gif" align="right" width="400px">
+    <img src="https://i.pinimg.com/originals/f4/82/fe/f482fe72f5aa6eda1469565a3fc827bb.gif" align="right" width="300px">
 </div>
   
 <li>
