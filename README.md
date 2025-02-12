@@ -350,6 +350,7 @@
 [![Skill Share](https://img.shields.io/badge/Skill%20Share-000000.svg?style=for-the-badge&logo=skill-share&logoColor=red)](https://www.skillshare.com/) 
 [![Udacity](https://img.shields.io/badge/Udacity-000000.svg?style=for-the-badge&logo=udacity&logoColor=red)](https://www.udacity.com/)
 [![Udemy](https://img.shields.io/badge/Udemy-000000.svg?style=for-the-badge&logo=udemy&logoColor=red)](https://www.udemy.com/) 
+
 10. Topluluklar & Blog Platformları
 
 - Developer Communities:
