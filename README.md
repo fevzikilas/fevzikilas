@@ -40,10 +40,10 @@
 <li><b>Graphic Design:  </b></li>
 ▪️  Blender, Adobe Illustrator, Figma, Notability
 
-`<br><br>`
-`<b>` Delivering high-quality and efficient solutions across projects. `</b>`
+<br><br>
+<b> Delivering high-quality and efficient solutions across projects. </b>
 
-`<br><br>`
+<br><br>
 
 ---
 
