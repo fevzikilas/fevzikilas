@@ -49,6 +49,9 @@ alt= <"b>Programming Languages:</b> Python, C, " src=" Java, JavaScript
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fevzikilas&show_icons=true&locale=en&theme=radical" alt="fevzikilas"/> </p>
 
+---
+
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=1.%20Software%20Development%20and%20Programming%20Languages&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=49" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Programming%20Languages:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=24" align="center">
