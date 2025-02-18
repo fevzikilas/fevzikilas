@@ -14,7 +14,7 @@
 <b>Specialization:</b> Data Science, AI, and Web Development
 </li>
 <li>
-alt= <"b>Programming Languages:</b> Python, C, " src=" Java, JavaScript
+<b>Programming Languages:</b> Python, C, Java, JavaScript
 </li>
 <br>
 
@@ -44,6 +44,13 @@ alt= <"b>Programming Languages:</b> Python, C, " src=" Java, JavaScript
 <b> Delivering high-quality and efficient solutions across projects. </b>
 
 <br><br>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Contact%20me&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=50&fontAlign=18"/> </p>
+
+<a href="www.linkedin.com/in/fevzikilas/"><img alt= "Linkedin" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=LinkedIn" width="150px" height="auto"></a>
+<a href="https://github.com/fevzikilas/"><img alt= "Github" src="https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=Github" width="150px" height="auto"></a>
+<a href="https://niexche.github.io"><img alt= "nieche" src="https://img.shields.io/badge/website_1-black" width="150px" height="auto"></a>
+<a href="https://fevzikilas.github.io"><img alt= "fevzikilas" src="https://img.shields.io/badge/website_2-black" width="150px" height="auto"></a>
 
 ---
 
@@ -386,10 +393,3 @@ I work as a Junior Data Scientist and Machine Learning Engineer. I’m currently
 
 ---
 
-<img alt= "![header" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Contact%20me&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=50&fontAlign=18)
-
-<img alt= "- [Twitter" src="https://twitter.com/iksapp)
-<img alt= "- [LinkedIn" src="www.linkedin.com/in/fevzikilas/)
-<img alt= "- [GitHub" src="https://github.com/fevzikilas/)
-<img alt= "- [Web Sitesi 1" src="https://niexche.github.io)
-<img alt= "- [Web Sitesi 2" src="https://fevzikilas.github.io/)
