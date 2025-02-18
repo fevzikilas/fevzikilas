@@ -1,4 +1,4 @@
-<a href=""> <img  src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=About%20Me&reversal=false&animation=blink&stroke=ff00ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=9" align="center">
+<a href="#"> <img  src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=About%20Me&reversal=false&animation=blink&stroke=ff00ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=9" align="center">
 
 <div align="center">
     <a href="#"> <img src="https://i.pinimg.com/originals/f4/82/fe/f482fe72f5aa6eda1469565a3fc827bb.gif" align="right" width="350px">
