@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=About%20Me&reversal=false&animation=blink&stroke=ff00ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=9" align="center">
+<a href="#"> <img  src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=About%20Me&reversal=false&animation=blink&stroke=ff00ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=9" align="center">
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/f4/82/fe/f482fe72f5aa6eda1469565a3fc827bb.gif" align="right" width="350px">
+    <a href="#"> <img src="https://i.pinimg.com/originals/f4/82/fe/f482fe72f5aa6eda1469565a3fc827bb.gif" align="right" width="350px">
 </div>
 
 <li>
@@ -43,9 +43,20 @@
 <br><br>
 <b> Delivering high-quality and efficient solutions across projects. </b>
 
-<br><br>
+<br>
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Contact%20me&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=50&fontAlign=18"/> </p>
+
+<p href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fevzikilas&show_icons=true&locale=en&theme=radical" alt="fevzikilas"/> </p>
+
+---
+
+# Fevzi KILAS
+
+I work as a Junior Data Scientist and Machine Learning Engineer. I’m currently focused on Time Series Forecasting and Transformers, exploring the latest research and models in these areas. I’m also interested in Computer Vision and classical Machine Learning, and I enjoy sharing my learning journey in these fields. In addition, I’m passionate about developing web and mobile applications. I’m trying to learn the latest technologies and frameworks to improve my skills. I’m also interested in Game Development and 3D Web Development, as I love creating interactive and immersive experiences. Overall, I’m just starting my journey, and I’m excited to grow and learn more every day! You can find me on LinkedIn, GitHub, and Twitter. Feel free to connect with me or reach out if you have any questions or just want to chat! Let me know if you’d like further tweaks! 😊.
+
+---
+
+<a href="#"> <img align="center" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Contact%20me&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=50&fontAlign=18"/> </p>
 
 <a href="www.linkedin.com/in/fevzikilas/"><img alt= "Linkedin" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=LinkedIn" width="150px" height="auto"></a>
 <a href="https://github.com/fevzikilas/"><img alt= "Github" src="https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=Github" width="150px" height="auto"></a>
@@ -54,12 +65,7 @@
 
 ---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fevzikilas&show_icons=true&locale=en&theme=radical" alt="fevzikilas"/> </p>
-
----
-
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=1.%20Software%20Development%20and%20Programming%20Languages&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=49" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=1.%20Software%20Development%20and%20Programming%20Languages&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=49" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Programming%20Languages:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=24" align="center">
 
@@ -90,7 +96,7 @@
 <a href="https://yaml.org/"><img alt= "YAML" src="https://img.shields.io/badge/YAML-000000.svg?style=for-the-badge&logo=yaml" width="150px" height="50px"></a>
 <a href="https://ziglang.org/"><img alt= "Zig" src="https://img.shields.io/badge/Zig-000000.svg?style=for-the-badge&logo=zig" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Frameworks%20&%20Libraries:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=13" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Frameworks%20&%20Libraries:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=13" align="center">
 
 <a href="https://angular.io/"><img alt= "Angular" src="https://img.shields.io/badge/Angular-000000.svg?style=for-the-badge&logo=angular" width="150px" height="50px"></a>
 <a href="https://angularjs.org/"><img alt= "Angular.js" src="https://img.shields.io/badge/Angular.js-000000.svg?style=for-the-badge&logo=angularjs" width="150px" height="50px"></a>
@@ -123,7 +129,7 @@
 <a href="https://webpack.js.org/"><img alt= "Webpack" src="https://img.shields.io/badge/Webpack-000000.svg?style=for-the-badge&logo=webpack" width="150px" height="50px"></a>
 <a href="https://yarnpkg.com/"><img alt= "Yarn" src="https://img.shields.io/badge/Yarn-000000.svg?style=for-the-badge&logo=yarn" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Machine%20Learning%20&%20Data%20Science:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Machine%20Learning%20&%20Data%20Science:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
 
 <a href="https://keras.io/"><img alt= "Keras" src="https://img.shields.io/badge/Keras-000000.svg?style=for-the-badge&logo=keras" width="150px" height="50px"></a>
 <a href="https://matplotlib.org/"><img alt= "Matplotlib" src="https://img.shields.io/badge/Matplotlib-000000.svg?style=for-the-badge&logo=matplotlib" width="150px" height="50px"></a>
@@ -136,9 +142,9 @@
 <a href="https://www.scipy.org/"><img alt= "Scipy" src="https://img.shields.io/badge/Scipy-000000.svg?style=for-the-badge&logo=scipy" width="150px" height="50px"></a>
 <a href="https://www.tensorflow.org/"><img alt= "TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000.svg?style=for-the-badge&logo=tensorflow" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=2.%20Databases%20and%20Storage%20Solutions&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=32" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=2.%20Databases%20and%20Storage%20Solutions&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=32" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20SQL%20Databases:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20SQL%20Databases:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
 
 <a href="https://aws.amazon.com/dynamodb/"><img alt= "AmazonDynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-000000.svg?style=for-the-badge&logo=amazon-dynamodb" width="150px" height="50px"></a>
 <a href="https://firebase.google.com/"><img alt= "Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?style=for-the-badge&logo=firebase" width="150px" height="50px"></a>
@@ -148,21 +154,21 @@
 <a href="https://www.sqlite.org/index.html"><img alt= "SQLite" src="https://img.shields.io/badge/SQLite-000000.svg?style=for-the-badge&logo=sqlite" width="150px" height="50px"></a>
 <a href="https://www.oracle.com/"><img alt= "Oracle" src="https://img.shields.io/badge/Oracle-000000.svg?style=for-the-badge&logo=oracle" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20NoSQL%20Databases:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20NoSQL%20Databases:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
 
 <a href="https://cassandra.apache.org/"><img alt= "ApacheCassandra" src="https://img.shields.io/badge/Apache%20Cassandra-000000.svg?style=for-the-badge&logo=apache-cassandra" width="150px" height="50px"></a>
 <a href="https://www.mongodb.com/"><img alt= "Mongo DB" src="https://img.shields.io/badge/Mongo%20DB-000000.svg?style=for-the-badge&logo=mongodb" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20ORM%20and%20Database%20Tools:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=24.1" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20ORM%20and%20Database%20Tools:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=24.1" align="center">
 
 <a href="https://hibernate.org/"><img alt= "Hibernate" src="https://img.shields.io/badge/Hibernate-000000.svg?style=for-the-badge&logo=Hibernate" width="150px" height="50px"></a>
 <a href="https://www.prisma.io/"><img alt= "Prisma" src="https://img.shields.io/badge/Prisma-000000.svg?style=for-the-badge&logo=Prisma" width="150px" height="50px"></a>
 <a href="https://sequelize.org/"><img alt= "Sequelize" src="https://img.shields.io/badge/Sequelize-000000.svg?style=for-the-badge&logo=Sequelize" width="150px" height="50px"></a>
 <a href="https://typeorm.io/"><img alt= "TypeORM" src="https://img.shields.io/badge/TypeORM-000000.svg?style=for-the-badge&logo=typeorm" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=3.%20Cloud%20Services%20&%20DevOps&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=15" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=3.%20Cloud%20Services%20&%20DevOps&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=15" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Cloud%20Providers:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Cloud%20Providers:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
 
 <a href="https://www.alibabacloud.com/"><img alt= "Alibaba Cloud" src="https://img.shields.io/badge/Alibaba%20Cloud-000000.svg?style=for-the-badge&logo=alibaba-cloud" width="150px" height="50px"></a>
 <a href="https://aws.amazon.com/"><img alt= "AWS" src="https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws" width="150px" height="50px"></a>
@@ -178,7 +184,7 @@
 <a href="https://render.com/"><img alt= "Render" src="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=render" width="150px" height="50px"></a>
 <a href="https://www.scaleway.com/"><img alt= "Scaleway" src="https://img.shields.io/badge/Scaleway-000000.svg?style=for-the-badge&logo=scaleway" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Containerization%20&%20CI/CD:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Containerization%20&%20CI/CD:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
 
 <a href="https://www.docker.com/"><img alt= "Docker" src="https://img.shields.io/badge/Docker-000000.svg?style=for-the-badge&logo=docker" width="150px" height="50px"></a>
 <a href="https://spec.openapis.org/oas/v3.1.0"><img alt= "OpenAPI Specification" src="https://img.shields.io/badge/OpenAPI%20Specification-000000.svg?style=for-the-badge&logo=openapi-initiative" width="150px" height="50px"></a>
@@ -192,14 +198,14 @@
 <a href="https://github.com/features/actions"><img alt= "GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=for-the-badge&logo=github-actions" width="150px" height="50px"></a>
 <a href="https://docs.gitlab.com/ee/ci/"><img alt= "GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-000000.svg?style=for-the-badge&logo=gitlab" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Other%20DevOps%20Tools:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=19" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Other%20DevOps%20Tools:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=19" align="center">
 
 <a href="https://opentelemetry.io/"><img alt= "OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000.svg?style=for-the-badge&logo=opentelemetry" width="150px" height="50px"></a>
 <a href="https://powerbi.microsoft.com/) ^⨀ᴥ⨀"><img alt= "Power BI" src="https://img.shields.io/badge/power_bi-000000.svg?style=for-the-badge&logo=powerbi" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=4.%20IDEs%20and%20Editors&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=4.%20IDEs%20and%20Editors&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Code%20Editors:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=13" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Code%20Editors:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=13" align="center">
 
 <a href="https://atom.io/"><img alt= "Atom" src="https://img.shields.io/badge/Atom-000000.svg?style=for-the-badge&logo=atom" width="150px" height="50px"></a>
 <a href="https://www.eclipse.org/"><img alt= "Eclipse" src="https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=eclipse" width="150px" height="50px"></a>
@@ -217,7 +223,7 @@
 <a href="https://visualstudio.microsoft.com/"><img alt= "Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio" width="150px" height="50px"></a>
 <a href="https://zedapp.org/"><img alt= "Zed" src="https://img.shields.io/badge/Zed-000000.svg?style=for-the-badge&logo=zed" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20IDE’s:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=6" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20IDE’s:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=6" align="center">
 
 <a href="https://developer.android.com/studio"><img alt= "Android Studio" src="https://img.shields.io/badge/Android%20Studio-000000.svg?style=for-the-badge&logo=android-studio" width="150px" height="50px"></a>
 <a href="https://www.jetbrains.com/clion/"><img alt= "CLion" src="https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion" width="150px" height="50px"></a>
@@ -228,9 +234,9 @@
 <a href="https://www.jetbrains.com/webstorm/"><img alt= "WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm" width="150px" height="50px"></a>
 <a href="https://developer.apple.com/xcode/"><img alt= "Xcode" src="https://img.shields.io/badge/Xcode-000000.svg?style=for-the-badge&logo=xcode" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=5.%20Web%20Development%20&%20APIs&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=18" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=5.%20Web%20Development%20&%20APIs&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=18" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Frontend%20Frameworks:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=20.5" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Frontend%20Frameworks:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=20.5" align="center">
 
 <a href="https://nextjs.org/"><img alt= "Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js" width="150px" height="50px"></a>
 <a href="https://nuxtjs.org/"><img alt= "Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-000000.svg?style=for-the-badge&logo=nuxt.js" width="150px" height="50px"></a>
@@ -241,7 +247,7 @@
 <a href="https://vuejs.org/"><img alt= "Vue" src="https://img.shields.io/badge/Vue-000000.svg?style=for-the-badge&logo=vue.js" width="150px" height="50px"></a>
 <a href="https://vuetifyjs.com/"><img alt= "Vuetify" src="https://img.shields.io/badge/Vuetify-000000.svg?style=for-the-badge&logo=vuetify" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Backend%20Frameworks:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=21" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Backend%20Frameworks:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=21" align="center">
 
 <a href="https://fastapi.tiangolo.com/"><img alt= "FastAPI" src="https://img.shields.io/badge/FastAPI-000000.svg?style=for-the-badge&logo=fastapi" width="150px" height="50px"></a>
 <a href="https://nestjs.com/"><img alt= "NestJS" src="https://img.shields.io/badge/NestJS-000000.svg?style=for-the-badge&logo=nestjs" width="150px" height="50px"></a>
@@ -251,16 +257,16 @@
 <a href="https://rubyonrails.org/"><img alt= "Rails" src="https://img.shields.io/badge/Rails-000000.svg?style=for-the-badge&logo=ruby-on-rails" width="150px" height="50px"></a>
 <a href="https://flask.palletsprojects.com/"><img alt= "Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Web%20&%20API%20Tools:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=5" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Web%20&%20API%20Tools:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=5" align="center">
 
 <a href="https://spec.openapis.org/oas/v3.1.0"><img alt= "OpenAPI Specification" src="https://img.shields.io/badge/OpenAPI%20Specification-000000.svg?style=for-the-badge&logo=openapi-initiative" width="150px" height="50px"></a>
 <a href="https://www.postman.com/"><img alt= "Postman" src="https://img.shields.io/badge/Postman-000000.svg?style=for-the-badge&logo=postman" width="150px" height="50px"></a>
 <a href="https://graphql.org/"><img alt= "GraphQL" src="https://img.shields.io/badge/GraphQL-000000.svg?style=for-the-badge&logo=graphql" width="150px" height="50px"></a>
 <a href="https://web3js.readthedocs.io/"><img alt= "Web3.js" src="https://img.shields.io/badge/Web3.js-000000.svg?style=for-the-badge&logo=web3.js" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=6.%20Cybersecurity%20&%20Operating%20Systems&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=14" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=6.%20Cybersecurity%20&%20Operating%20Systems&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=14" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Operating%20Systems:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Operating%20Systems:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
 
 <a href="https://alpinelinux.org/"><img alt= "Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-000000.svg?style=for-the-badge&logo=alpine-linux" width="150px" height="50px"></a>
 <a href="https://mxlinux.org/"><img alt= "MX Linux" src="https://img.shields.io/badge/MX%20Linux-000000.svg?style=for-the-badge&logo=mx-linux" width="150px" height="50px"></a>
@@ -288,7 +294,7 @@
 <a href="https://www.microsoft.com/en-us/windows"><img alt= "Windows" src="https://img.shields.io/badge/Windows-000000.svg?style=for-the-badge&logo=windows" width="150px" height="50px"></a>
 <a href="https://zorinos.com/"><img alt= "Zorin OS" src="https://img.shields.io/badge/Zorin%20OS-000000.svg?style=for-the-badge&logo=zorin" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Cybersecurity%20Tools:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=19" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Cybersecurity%20Tools:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=19" align="center">
 
 <a href="https://www.wireshark.org/"><img alt= "Wireshark" src="https://img.shields.io/badge/Wireshark-000000.svg?style=for-the-badge&logo=wireshark" width="150px" height="50px"></a>
 <a href="https://www.metasploit.com/"><img alt= "Metasploit" src="https://img.shields.io/badge/Metasploit-000000.svg?style=for-the-badge&logo=metasploit" width="150px" height="50px"></a>
@@ -300,9 +306,9 @@
 <a href="https://www.raspberrypi.org/"><img alt= "Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-000000.svg?style=for-the-badge&logo=raspberry-pi" width="150px" height="50px"></a>
 <a href="https://aka.ms/terminal"><img alt= "Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-000000.svg?style=for-the-badge&logo=windows-terminal" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=7.%20Design%20&%20Content%20Creation&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=8" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=7.%20Design%20&%20Content%20Creation&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=8" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Graphic%20Design%20&%203D%20Modeling:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=15" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Graphic%20Design%20&%203D%20Modeling:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=15" align="center">
 
 <a href="https://www.adobe.com/"><img alt= "Adobe" src="https://img.shields.io/badge/Adobe-000000.svg?style=for-the-badge&logo=adobe" width="150px" height="50px"></a>
 <a href="https://www.blender.org/"><img alt= "Blender" src="https://img.shields.io/badge/Blender-000000.svg?style=for-the-badge&logo=blender" width="150px" height="50px"></a>
@@ -313,7 +319,7 @@
 <a href="https://krita.org/"><img alt= "Krita" src="https://img.shields.io/badge/Krita-000000.svg?style=for-the-badge&logo=krita" width="150px" height="50px"></a>
 <a href="https://www.sketchup.com/"><img alt= "Sketch Up" src="https://img.shields.io/badge/Sketch%20Up-000000.svg?style=for-the-badge&logo=sketchup" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Documentation%20&%20Content:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=15" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Documentation%20&%20Content:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=15" align="center">
 
 <a href="https://www.bookstackapp.com/"><img alt= "Bookstack" src="https://img.shields.io/badge/Bookstack-000000.svg?style=for-the-badge&logo=bookstack" width="150px" height="50px"></a>
 <a href="https://www.gitbook.com/"><img alt= "GitBook" src="https://img.shields.io/badge/GitBook-000000.svg?style=for-the-badge&logo=gitbook" width="150px" height="50px"></a>
@@ -321,26 +327,26 @@
 <a href="https://www.wikipedia.org/"><img alt= "Wikipedia" src="https://img.shields.io/badge/Wikipedia-000000.svg?style=for-the-badge&logo=wikipedia" width="150px" height="50px"></a>
 <a href="https://wiki.js.org/"><img alt= "Wiki.js" src="https://img.shields.io/badge/Wiki.js-000000.svg?style=for-the-badge&logo=wiki.js" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Storytelling%20&%20UI%20Kit:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=12" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Storytelling%20&%20UI%20Kit:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=12" align="center">
 
 <a href="https://storybook.js.org/"><img alt= "Storybook" src="https://img.shields.io/badge/Storybook-000000.svg?style=for-the-badge&logo=storybook" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=8.%20Blockchain%20&%20Cryptocurrencies&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=12" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=8.%20Blockchain%20&%20Cryptocurrencies&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=12" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Cryptocurrencies:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Cryptocurrencies:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
 
 <a href="https://bitcoin.org/"><img alt= "Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000.svg?style=for-the-badge&logo=bitcoin" width="150px" height="50px"></a>
 <a href="https://chain.link/"><img alt= "Chainlink" src="https://img.shields.io/badge/Chainlink-000000.svg?style=for-the-badge&logo=chainlink" width="150px" height="50px"></a>
 <a href="https://dogecoin.com/"><img alt= "Dogecoin" src="https://img.shields.io/badge/Dogecoin-000000.svg?style=for-the-badge&logo=dogecoin" width="150px" height="50px"></a>
 <a href="https://ethereum.org/"><img alt= "Ethereum" src="https://img.shields.io/badge/Ethereum-000000.svg?style=for-the-badge&logo=ethereum" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Web3%20&%20Blockchain:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=7" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Web3%20&%20Blockchain:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=7" align="center">
 
 <a href="https://web3js.readthedocs.io/"><img alt= "Web3.js" src="https://img.shields.io/badge/Web3.js-000000.svg?style=for-the-badge&logo=web3.js" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=9.%20Education%20&%20Learning%20Platforms&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=11" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=9.%20Education%20&%20Learning%20Platforms&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=11" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Online%20Education:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Online%20Education:%20&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
 
 <a href="https://www.coursera.org/"><img alt= "Coursera" src="https://img.shields.io/badge/Coursera-000000.svg?style=for-the-badge&logo=coursera" width="150px" height="50px"></a>
 <a href="https://www.duolingo.com/"><img alt= "Duolingo" src="https://img.shields.io/badge/Duolingo-000000.svg?style=for-the-badge&logo=duolingo" width="150px" height="50px"></a>
@@ -362,9 +368,9 @@
 <a href="https://www.udacity.com/"><img alt= "Udacity" src="https://img.shields.io/badge/Udacity-000000.svg?style=for-the-badge&logo=udacity" width="150px" height="50px"></a>
 <a href="https://www.udemy.com/"><img alt= "Udemy" src="https://img.shields.io/badge/Udemy-000000.svg?style=for-the-badge&logo=udemy" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=10.%20Topluluklar%20&%20Blog%20Platformları&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=13" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=10.%20Topluluklar%20&%20Blog%20Platformları&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=13" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Developer%20Communities:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=23" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Developer%20Communities:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=23" align="center">
 
 <a href="https://codeforces.com/"><img alt= "Codeforces" src="https://img.shields.io/badge/Codeforces-000000.svg?style=for-the-badge&logo=codeforces" width="150px" height="50px"></a>
 <a href="https://www.hackerearth.com/"><img alt= "Hackerearth" src="https://img.shields.io/badge/Hackerearth-000000.svg?style=for-the-badge&logo=hackerearth" width="150px" height="50px"></a>
@@ -374,7 +380,7 @@
 <a href="https://stackoverflow.com/"><img alt= "Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-000000.svg?style=for-the-badge&logo=stack-overflow" width="150px" height="50px"></a>
 <a href="https://stackexchange.com/"><img alt= "Stack Exchange" src="https://img.shields.io/badge/Stack%20Exchange-000000.svg?style=for-the-badge&logo=stack-exchange" width="150px" height="50px"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Blog%20&%20Content%20Platforms:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=7" align="center">
+<a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Blog%20&%20Content%20Platforms:&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=30&fontAlign=7" align="center">
 
 <a href="https://www.blogger.com/"><img alt= "Blogger" src="https://img.shields.io/badge/Blogger-000000.svg?style=for-the-badge&logo=blogger" width="150px" height="50px"></a>
 <a href="https://daily.dev/"><img alt= "daily.dev" src="https://img.shields.io/badge/daily.dev-000000.svg?style=for-the-badge&logo=daily.dev" width="150px" height="50px"></a>
@@ -385,11 +391,5 @@
 
 <img align="center" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRmcWUwaGFkbW1lczJoYzBjbHBxZjMyeDdhdDQycGdzamwyOGhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtB2l3jHiJsFa/giphy.gif"/> </p>
 
----
 
-Fevzi KILAS
-
-I work as a Junior Data Scientist and Machine Learning Engineer. I’m currently focused on Time Series Forecasting and Transformers, exploring the latest research and models in these areas. I’m also interested in Computer Vision and classical Machine Learning, and I enjoy sharing my learning journey in these fields. In addition, I’m passionate about developing web and mobile applications. I’m trying to learn the latest technologies and frameworks to improve my skills. I’m also interested in Game Development and 3D Web Development, as I love creating interactive and immersive experiences. Overall, I’m just starting my journey, and I’m excited to grow and learn more every day! You can find me on LinkedIn, GitHub, and Twitter. Feel free to connect with me or reach out if you have any questions or just want to chat! Let me know if you’d like further tweaks! 😊.
-
----
 
