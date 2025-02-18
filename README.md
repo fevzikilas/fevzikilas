@@ -56,7 +56,7 @@ I work as a Junior Data Scientist and Machine Learning Engineer. I’m currently
 
 ---
 
-<a href="#"> <img align="center" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Contact%20me&reversal=false&animation=blink&stroke=ff99ff&fontColor=00000&strokeWidth=0.5&fontSize=50&fontAlign=18"/> </p>
+<a href="#"> <img align="center" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Contact%20me&reversal=false&animation=blink&stroke=ffffff&fontColor=00000&strokeWidth=0.5&fontSize=50&fontAlign=18"/> </p>
 
 <a href="www.linkedin.com/in/fevzikilas/"><img alt= "Linkedin" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=LinkedIn" width="150px" height="auto"></a>
 <a href="https://github.com/fevzikilas/"><img alt= "Github" src="https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=Github" width="150px" height="auto"></a>
