@@ -35,7 +35,7 @@
 <br><br>
 
 <li><b>Database:  </b></li>
-▪️ Oracle , PostgreSQL, NoSQL, MySQL
+▪️ Oracle , PostgreSQL, NoSQL, MySQL, qdrant
 <br><br>
 <li><b>Graphic Design:  </b></li>
 ▪️  Blender, Adobe Illustrator, Figma, Notability
@@ -146,6 +146,7 @@ I work as a Junior Data Scientist and Machine Learning Engineer. I’m currently
 
 <a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20SQL%20Databases:&reversal=false&animation=blink&stroke=ff00ff&fontColor=ffffff&strokeWidth=0.5&fontSize=30&fontAlign=16" align="center">
 
+
 <a href="https://aws.amazon.com/dynamodb/"><img alt= "AmazonDynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-000000.svg?style=for-the-badge&logo=amazon-dynamodb" width="150px" height="50px"></a>
 <a href="https://firebase.google.com/"><img alt= "Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?style=for-the-badge&logo=firebase" width="150px" height="50px"></a>
 <a href="https://www.microsoft.com/en-us/sql-server"><img alt= "MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000.svg?style=for-the-badge&logo=microsoft-sql-server" width="150px" height="50px"></a>
@@ -153,6 +154,7 @@ I work as a Junior Data Scientist and Machine Learning Engineer. I’m currently
 <a href="https://www.postgresql.org/"><img alt= "Postgres" src="https://img.shields.io/badge/Postgres-000000.svg?style=for-the-badge&logo=postgresql" width="150px" height="50px"></a>
 <a href="https://www.sqlite.org/index.html"><img alt= "SQLite" src="https://img.shields.io/badge/SQLite-000000.svg?style=for-the-badge&logo=sqlite" width="150px" height="50px"></a>
 <a href="https://www.oracle.com/"><img alt= "Oracle" src="https://img.shields.io/badge/Oracle-000000.svg?style=for-the-badge&logo=oracle" width="150px" height="50px"></a>
+<a href="https://qdrant.tech/"><img alt= "QDrant" src="https://cdn.cloud.qdrant.io/static/images/logo.svg" width="150px" height="50px"></a>
 
 <a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20NoSQL%20Databases:&reversal=false&animation=blink&stroke=ff00ff&fontColor=ffffff&strokeWidth=0.5&fontSize=30&fontAlign=17" align="center">
 
