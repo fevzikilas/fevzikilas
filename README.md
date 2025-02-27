@@ -248,6 +248,7 @@ I work as a Junior Data Scientist and Machine Learning Engineer. I’m currently
 <a href="https://sass-lang.com/"><img alt= "SASS" src="https://img.shields.io/badge/SASS-000000.svg?style=for-the-badge&logo=sass" width="150px" height="50px"></a>
 <a href="https://vuejs.org/"><img alt= "Vue" src="https://img.shields.io/badge/Vue-000000.svg?style=for-the-badge&logo=vue.js" width="150px" height="50px"></a>
 <a href="https://vuetifyjs.com/"><img alt= "Vuetify" src="https://img.shields.io/badge/Vuetify-000000.svg?style=for-the-badge&logo=vuetify" width="150px" height="50px"></a>
+<a href="https://mermaid.js.org/"><img alt= "Mermaid" src="https://img.shields.io/badge/Mermaid-000000.svg?style=for-the-badge&logo=mermaid" width="150px" height="50px"></a>
 
 <a href="#"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient&text=-%20Backend%20Frameworks:%20&reversal=false&animation=blink&stroke=ff00ff&fontColor=ffffff&strokeWidth=0.5&fontSize=30&fontAlign=21" align="center">
 
